@@ -8,7 +8,7 @@ I just think in a businees,the owner want to collect customers' date of birth fo
 
 #Khris
 I committed a file that asks a user for their name and their favorite fruit out of 3
-# version control Group 13 on Canvas : Duy nguyen and Khristian Tomko
+# version control Group 13 on Canvas : Duy nguyen, Khristian Tomko, and Nickie Fornaser
 
 
 #Nickie Fornaser
