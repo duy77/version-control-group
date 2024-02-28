@@ -5,4 +5,7 @@ using try expect and print out user input but in inverse side. the purpose to pr
 
 I just think in a businees,the owner want to collect customers' date of birth for giving them a discount on their birthday.
 
+
+#Khris
+I committed a file that asks a user for their name and their favorite fruit out of 3
 # version control Group 13 on Canvas : Duy nguyen and Khristian Tomko
