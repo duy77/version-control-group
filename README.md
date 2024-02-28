@@ -9,3 +9,7 @@ I just think in a businees,the owner want to collect customers' date of birth fo
 #Khris
 I committed a file that asks a user for their name and their favorite fruit out of 3
 # version control Group 13 on Canvas : Duy nguyen and Khristian Tomko
+
+
+#Nickie Fornaser
+#In my program it asks the user for their name, the rquests for an input of any kind, then whatever the input is, it prints it out three times.
